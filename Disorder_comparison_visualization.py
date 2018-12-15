@@ -1,8 +1,4 @@
 '''
-Shiivong Kapil Birla - 30046572
-Created on - 09/10/2018
-Modified on - 12/10/2018
-
 This program plots the data for visual analysis and gives the suer a way to compare the stats
 '''
 
