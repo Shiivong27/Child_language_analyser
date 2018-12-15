@@ -1,8 +1,4 @@
 '''
-Shiivong Kapil Birla - 30046572
-Created on - 02/10/2018
-Modified on - 11/10/2018
-
 This program cleans the raw files and stores them on a desired file
 '''
 
