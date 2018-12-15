@@ -1,4 +1,4 @@
-# Child_language_analyser
+# Child Language Analyser
 In this project, I have implemented a language analyser which investigates the linguistic characteristics of children with some form of language disorder. The analyser can perform basic descriptive statistics on a number of linguistic features in the form of visualization.
 
 
@@ -11,7 +11,7 @@ Impairment (SLI) — one form of language disorders; and the second set is from 
 Based on certain rules defined in the transcript, I have filtered out relevant lines using regex and then used them to clasify and 
 visualize. I have made extensive use of Python Classes and Functions throughout this project.
 
-Python packages used :
+Python packages used:
 
 - glob
 - re
