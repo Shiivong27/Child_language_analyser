@@ -10,3 +10,10 @@ Impairment (SLI) — one form of language disorders; and the second set is from 
 
 Based on certain rules defined in the transcript, I have filtered out relevant lines using regex and then used them to clasify and 
 visualize. I have made extensive use of Python Classes and Functions throughout this project.
+
+Python packages used :
+
+- glob
+- re
+- matplotlib
+- numpy
