@@ -1,8 +1,4 @@
 '''
-Shiivong Kapil Birla - 30046572
-Created on - 04/10/2018
-Modified on - 11/10/2018
-
 This program counts the strings of the cleaned file based on the regular expressions defined below
 '''
 
